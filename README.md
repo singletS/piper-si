@@ -1,2 +1,2 @@
 # piper
-PChem Inspired Pedagogical Resource
+PChem Inspired Pedagogical Resource Supplemental Information
